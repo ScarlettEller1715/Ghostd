@@ -8,9 +8,10 @@ A simulated dating app experience themed around creating matches with famous his
 
 
 **APP**: https://ghostd-app.herokuapp.com/
-**DEMO**: https://www.youtube.com/watch?v=Ku769gWmZH8
 
 # Demos:
+
+Full Youtube Demo - https://www.youtube.com/watch?v=Ku769gWmZH8
 
 <img src='ghostd-demo.gif' width='750'>
 
