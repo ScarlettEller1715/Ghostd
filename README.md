@@ -44,3 +44,7 @@ rails s
 // start the frontend interface
 npm start --prefix client 
 ```
+
+Developed by: 
+* [Scarlett Eller](https://github.com/ScarlettEller1715)
+* [Henry Miller](https://github.com/henreth/) 
